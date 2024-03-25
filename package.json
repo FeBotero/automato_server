@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "ts-node src/app",
+    "start": "node ./dist/app.js",
     "start-dev": "ts-node-dev src/app",
     "build": "tsc"
   },
